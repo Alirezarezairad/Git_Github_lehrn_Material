@@ -48,8 +48,7 @@ git --version
 2️⃣ کلون کردن همین ریپو (اختیاری):
 
 ```bash
-git clone <ssh-or-https-url>
-cd <repo-folder>
+git clone git@github.com:Alirezarezairad/Git_Github_lehrn_Material.git
 ```
 
 3️⃣ مسیر یادگیری را به ترتیب دنبال کنید (از `01-install` شروع کنید).
