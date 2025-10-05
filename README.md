@@ -93,7 +93,7 @@ cd <repo-folder>
 | شماره | عنوان درس                      | لینک                                                                 |
 |--------|--------------------------------|----------------------------------------------------------------------|
 | 1️⃣   | نصب و پیکربندی Git             | [01-install/01-Install.md](./Farsi_version/01-install/01-Install.md) |
-| 2️⃣   | مفاهیم و دستورات پایه          | [02-basics/02-Basics.md](./Farsi_version/02-basics/02-Basics.md)   |
+| 2️⃣   | مفاهیم و دستورات پایه          | [02-basics/02-Basics.md](./Farsi_version/02-Basics/02-Basics.md)   |
 | 3️⃣   | ساخت SSH Key و اتصال به GitHub | [03-ssh/03-ssh.md](./Farsi_version/03-ssh/03-ssh.md)               |
 | 4️⃣   | شاخه‌ها، Merge و Rebase        | [04-branches/04-branches.md](./Farsi_version/04-branches/04-branches.md) |
 | 5️⃣   | دستورات پیشرفته Git            | [05-advanced/05-Advanced.md](./Farsi_version/05-advanced/05-Advanced.md) |
