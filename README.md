@@ -61,14 +61,28 @@ cd <repo-folder>
 ```
 
 /
-├─ README.md              # همین معرفی کلی
-├─ 01-install/            # نصب و پیکربندی اولیه Git
-├─ 02-basics/             # دستورات پایه: init, add, commit, push, pull, clone, status, log, diff
-├─ 03-ssh/                # ساخت SSH key و اتصال به GitHub
-├─ 04-branches/           # branch, checkout/switch, merge, rebase، حل conflict
-├─ 05-advanced/           # stash, reset, revert, cherry-pick, bisect, reflog, tag, submodule, LFS, GPG
-├─ 06-ci-cd/              # نمونهٔ ساده GitHub Actions
-└─ cheatsheets/           # برگه‌های خلاصهٔ قابل چاپ
+├── README.md                # معرفی کلی و راهنمای اصلی دوره Git & GitHub
+│
+├── 01-install/              # نصب و پیکربندی Git در Windows, macOS, Linux + تنظیم user.name و user.email
+│   └── 01-Install.md
+│
+├── 02-basics/               # مفاهیم پایه: init, add, commit, status, log, diff, push, pull, clone
+│   └── 02-Basics.md
+│
+├── 03-ssh/                  # ساخت SSH Key، اتصال امن به GitHub و تست ارتباط
+│   └── 03-ssh.md
+│
+├── 04-branches/             # شاخه‌ها: branch، checkout/switch، merge، rebase و حل تعارض‌ها (conflicts)
+│   └── 04-branches.md
+│
+├── 05-advanced/             # دستورات پیشرفته: stash، reset، revert، cherry-pick، bisect، reflog، tag، submodule، LFS، GPG
+│   └── 05-Advanced.md
+│
+├── 06-ci-cd/                # آموزش GitHub Actions (ایجاد CI ساده برای تست و Build خودکار)
+│   └── 06-ci_cd.md
+│
+└── LICENSE                  # مجوز MIT برای استفاده آزاد و قانونی از محتوای پروژه
+
 ```
 </div>
 ---
