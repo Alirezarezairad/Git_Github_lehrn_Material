@@ -139,7 +139,3 @@ If you find something unclear or want more examples,
 open an Issue — the goal is to build a **standard, high-quality Persian resource** for learning Git & GitHub.
 
 </div>
-```
-
-> *by Alireza Rezairad*
-> (مناسب برای کاور GitHub و LinkedIn)؟
